@@ -1,14 +1,21 @@
 
 # Array Wrapper (Easy)
 
-**Platform:** LeetCode
-**Author:** pratham15541 
-**Submitted at:** 6/10/2025, 11:49:17 am 
-**Language:** JavaScript 
+**Platform:** LeetCode  
+
+**Author:** Pratham Parikh (pratham15541)  
+
+**Submitted at:** 6/10/2025, 11:49:17 am
+
+**Language:** JavaScript  
+
 **Runtime:** 47 ms 
-**Memory:** 55.5 MB 
-**Problem URL:** [https://leetcode.com/problems/array-wrapper/](https://leetcode.com/problems/array-wrapper/) 
-**Submission URL:** [https://leetcode.com/submissions/detail/1792847827/](https://leetcode.com/submissions/detail/1792847827/) 
+
+**Memory:** 55.5 MB  
+
+**Problem URL:** [https://leetcode.com/problems/array-wrapper/](https://leetcode.com/problems/array-wrapper/)  
+
+**Submission URL:** [https://leetcode.com/submissions/detail/1792847827/](https://leetcode.com/submissions/detail/1792847827/)  
 
 ---
 
