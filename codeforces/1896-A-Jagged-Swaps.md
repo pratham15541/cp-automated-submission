@@ -14,12 +14,11 @@
 ---
 
 ## Problem Statement
-[https://codeforces.com/problemset/problem/1896/A](https://codeforces.com/problemset/problem/1896/A)
+https://codeforces.com/problemset/problem/1896/A
 
 ---
 
 ## Submitted Code
-[https://codeforces.com/contest/1896/submission/342148675](https://codeforces.com/contest/1896/submission/342148675)
 
 ---
 
