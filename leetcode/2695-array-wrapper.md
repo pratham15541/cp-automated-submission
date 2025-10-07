@@ -3,7 +3,7 @@
 
 **Platform:** LeetCode  
 **Author:** Pratham Parikh (pratham15541)  
-**Submitted at:** 6/10/2025, 11:49:17 am  
+**Submitted at:** 10/6/2025, 6:19:17 AM  
 **Language:** JavaScript  
 **Runtime:** 47 ms  
 **Memory:** 55.5 MB  
