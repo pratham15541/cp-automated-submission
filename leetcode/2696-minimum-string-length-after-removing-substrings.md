@@ -1,14 +1,14 @@
 
 # Minimum String Length After Removing Substrings (Easy)
 
-**Platform:** LeetCode  
-**Author:** Pratham Parikh (pratham15541)  
-**Submitted at:** 6/10/2025, 11:57:42 am  
-**Language:** Java  
-**Runtime:** 4 ms  
-**Memory:** 43.3 MB  
-**Problem URL:** [https://leetcode.com/problems/minimum-string-length-after-removing-substrings/](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)  
-**Submission URL:** [https://leetcode.com/submissions/detail/1792854823/](https://leetcode.com/submissions/detail/1792854823/)  
+**Platform:** LeetCode
+**Author:** pratham15541 
+**Submitted at:** 6/10/2025, 11:57:42 am 
+**Language:** Java 
+**Runtime:** 4 ms 
+**Memory:** 43.3 MB 
+**Problem URL:** [https://leetcode.com/problems/minimum-string-length-after-removing-substrings/](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) 
+**Submission URL:** [https://leetcode.com/submissions/detail/1792854823/](https://leetcode.com/submissions/detail/1792854823/) 
 
 ---
 
