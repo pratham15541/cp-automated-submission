@@ -12,4 +12,3 @@
 | brute force | chinese remainder theorem | math | number theory | sortings |
 | --- | --- | --- | --- | --- |
 | [King Keykhosrow's Mystery](codeforces/2034-A-King-Keykhosrows-Mystery.md) | [King Keykhosrow's Mystery](codeforces/2034-A-King-Keykhosrows-Mystery.md) | [King Keykhosrow's Mystery](codeforces/2034-A-King-Keykhosrows-Mystery.md) | [King Keykhosrow's Mystery](codeforces/2034-A-King-Keykhosrows-Mystery.md) | [Jagged Swaps](codeforces/1896-A-Jagged-Swaps.md) |
-
