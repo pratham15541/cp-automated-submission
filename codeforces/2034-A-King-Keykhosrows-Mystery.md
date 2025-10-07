@@ -1,15 +1,14 @@
-
 # King Keykhosrow's Mystery (800)
 
-**Platform:** Codeforces  
-**Author:** pratham15541  
-**Submitted at:** 6/10/2025, 9:18:41 am  
-**Language:** Java 21  
-**Verdict:** OK  
-**Time:** 765 ms  
-**Memory:** 300.0 KB  
-**Problem URL:** [https://codeforces.com/problemset/problem/2034/A](https://codeforces.com/problemset/problem/2034/A)  
-**Submission URL:** [https://codeforces.com/contest/2034/submission/342151702](https://codeforces.com/contest/2034/submission/342151702)  
+**Platform:** Codeforces
+**Author:** pratham15541
+**Submitted at:** 6/10/2025, 9:18:41 am
+**Language:** Java 21
+**Verdict:** OK
+**Time:** 765 ms
+**Memory:** 300.0 KB
+**Problem URL:** [https://codeforces.com/problemset/problem/2034/A](https://codeforces.com/problemset/problem/2034/A)
+**Submission URL:** [https://codeforces.com/contest/2034/submission/342151702](https://codeforces.com/contest/2034/submission/342151702)
 
 ---
 
@@ -42,12 +41,4 @@ For each test case, print the smallest integer $$$m$$$ that satisfies the condit
 ---
 
 ## Submitted Code
-(Your solution code goes here)
-
----
-
-## Problem Tags
-- brute force
-- chinese remainder theorem
-- math
-- number theory
+(Solution code must be fetched separately via another scrape or API call if needed, as the API only provides metadata. For now, it's a placeholder.)
