@@ -1,14 +1,21 @@
 
 # Lexicographically Smallest Palindrome (Easy)
 
-**Platform:** LeetCode
-**Author:** pratham15541 
-**Submitted at:** 6/10/2025, 12:10:42 pm 
-**Language:** Java 
+**Platform:** LeetCode  
+
+**Author:** Pratham Parikh (pratham15541)  
+
+**Submitted at:** 6/10/2025, 12:10:42 pm
+
+**Language:** Java  
+
 **Runtime:** 6 ms 
-**Memory:** 45.3 MB 
-**Problem URL:** [https://leetcode.com/problems/lexicographically-smallest-palindrome/](https://leetcode.com/problems/lexicographically-smallest-palindrome/) 
-**Submission URL:** [https://leetcode.com/submissions/detail/1792865235/](https://leetcode.com/submissions/detail/1792865235/) 
+
+**Memory:** 45.3 MB  
+
+**Problem URL:** [https://leetcode.com/problems/lexicographically-smallest-palindrome/](https://leetcode.com/problems/lexicographically-smallest-palindrome/)  
+
+**Submission URL:** [https://leetcode.com/submissions/detail/1792865235/](https://leetcode.com/submissions/detail/1792865235/)  
 
 ---
 
