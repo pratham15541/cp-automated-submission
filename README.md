@@ -7,6 +7,7 @@
 | [Subsets](leetcode/78-subsets.md) | [Subsets](leetcode/78-subsets.md) | [Subsets](leetcode/78-subsets.md) | [Integer to Roman](leetcode/12-integer-to-roman.md) | [Integer to Roman](leetcode/12-integer-to-roman.md) | [Sort Array by Increasing Frequency](leetcode/1636-sort-array-by-increasing-frequency.md) | [Integer to Roman](leetcode/12-integer-to-roman.md) |
 | [Sort Array by Increasing Frequency](leetcode/1636-sort-array-by-increasing-frequency.md) | [Sort Array by Increasing Frequency](leetcode/1636-sort-array-by-increasing-frequency.md) |  |  |  |  |  |
 | [Combination Sum](leetcode/39-combination-sum.md) | [Combination Sum](leetcode/39-combination-sum.md) |  |  |  |  |  |
+| [Adjacent Increasing Subarrays Detection I](leetcode/3349-adjacent-increasing-subarrays-detection-i.md) |  |  |  |  |  |  |
 
 ## Codeforces
 
