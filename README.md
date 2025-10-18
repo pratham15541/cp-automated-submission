@@ -14,3 +14,4 @@
 | brute force | constructive algorithms | greedy | implementation |
 | --- | --- | --- | --- |
 | [Equal Occurrences](codeforces/2146-A-Equal-Occurrences.md) | [Doremy's Paint 3](codeforces/1890-A-Doremys-Paint-3.md) | [Equal Occurrences](codeforces/2146-A-Equal-Occurrences.md) | [Equal Occurrences](codeforces/2146-A-Equal-Occurrences.md) |
+| [Beautiful Average](codeforces/2162-A-Beautiful-Average.md) | [Beautiful String](codeforces/2162-B-Beautiful-String.md) | [Beautiful Average](codeforces/2162-A-Beautiful-Average.md) |  |
