@@ -30,6 +30,26 @@ You've got a 5 × 5 matrix, consisting of 24 zeroes and a single number one.
 
 Examples
 
+### Sample Input 1
+```
+0 0 0 0 00 0 0 0 10 0 0 0 00 0 0 0 00 0 0 0 0
+```
+
+### Sample Output 1
+```
+3
+```
+
+### Sample Input 2
+```
+0 0 0 0 00 0 0 0 00 1 0 0 00 0 0 0 00 0 0 0 0
+```
+
+### Sample Output 2
+```
+1
+```
+
 ---
 
 ## Submitted Code
