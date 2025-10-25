@@ -29,22 +29,22 @@ Fortunately, the store sells horseshoes of all colors under the sun and Valera h
 
 Examples
 
-### Sample Input 
+### Sample Input 1
 ```
 1 7 3 3
 ```
 
-### Sample Output 
+### Sample Output 1
 ```
 1
 ```
 
-### Sample Input 
+### Sample Input 2
 ```
 7 7 7 7
 ```
 
-### Sample Output 
+### Sample Output 2
 ```
 3
 ```
