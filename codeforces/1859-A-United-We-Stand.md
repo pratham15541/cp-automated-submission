@@ -59,7 +59,9 @@ In the fifth test case, we can obtain $b = [4, 8, 4]$ and $c = [12, 12]$.
 ---
 
 ## Submitted Code
+```java 21
 (Your solution code goes here)
+```
 
 ---
 
