@@ -51,7 +51,9 @@ Examples
 ---
 
 ## Submitted Code
+```java 21
 (Your solution code goes here)
+```
 
 ---
 
