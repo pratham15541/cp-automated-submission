@@ -26,6 +26,26 @@ A guy named Vasya attends the final grade of a high school. One day Vasya decide
 
 Examples
 
+### Sample Input 1
+```
+34 1 7-2 4 -11 -5 -3
+```
+
+### Sample Output 1
+```
+NO
+```
+
+### Sample Input 2
+```
+33 -1 7-5 2 -42 -1 -3
+```
+
+### Sample Output 2
+```
+YES
+```
+
 ---
 
 ## Submitted Code
