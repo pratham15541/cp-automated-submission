@@ -33,22 +33,22 @@ ExamplesNoteIn the first sample it is not enough one cash to serve all clients, 
 
 In the second sample all visitors will come in different times, so it will be enough one cash.
 
-### Sample Input 
+### Sample Input 1
 ```
 48 08 108 108 45
 ```
 
-### Sample Output 
+### Sample Output 1
 ```
 2
 ```
 
-### Sample Input 
+### Sample Input 2
 ```
 30 1210 1122 22
 ```
 
-### Sample Output 
+### Sample Output 2
 ```
 1
 ```
