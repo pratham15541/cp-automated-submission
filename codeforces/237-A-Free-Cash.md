@@ -55,7 +55,9 @@ In the second sample all visitors will come in different times, so it will be en
 ---
 
 ## Submitted Code
+```java 21
 (Your solution code goes here)
+```
 
 ---
 
