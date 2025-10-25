@@ -5,7 +5,7 @@
 
 **Author:** pratham15541  
 
-**Submitted at:** 10/24/2025, 10:37:03 AM  
+**Submitted at:** 24/10/2025, 4:07:03 pm  
 
 **Language:** Java 21  
 
@@ -22,17 +22,7 @@
 ---
 
 ## Problem Statement
-Given an array $a$ of length $n$, containing integers. And there are two initially empty arrays $b$ and $c$. You need to add each element of array $a$ to exactly one of the arrays $b$ or $c$, in order to satisfy the following conditions:
-
- 
-*  Both arrays $b$ and $c$ are non-empty. More formally, let $l_b$ be the length of array $b$, and $l_c$ be the length of array $c$. Then $l_b, l_c \ge 1$. 
-*  For any two indices $i$ and $j$ ($1 \le i \le l_b, 1 \le j \le l_c$), $c_j$ is not a divisor of $b_i$. Output the arrays $b$ and $c$ that can be obtained, or output $-1$ if they do not exist.
-
-ExampleNoteIn the first test case, a solution does not exist.
-
-In the second test case, we can obtain $b = [1, 3, 5]$ and $c = [2, 4]$. Then elements $2$ and $4$ do not divide elements $1, 3$ and $5$.
-
-In the fifth test case, we can obtain $b = [4, 8, 4]$ and $c = [12, 12]$.
+[object Object]
 
 ---
 
