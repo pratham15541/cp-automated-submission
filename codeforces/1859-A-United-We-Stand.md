@@ -35,12 +35,12 @@ In the second test case, we can obtain $b = [1, 3, 5]$ and $c = [2, 4]$. Then el
 
 In the fifth test case, we can obtain $b = [4, 8, 4]$ and $c = [12, 12]$.
 
-### Sample Input 
+### Sample Input
 ```
 532 2 251 2 3 4 531 3 571 7 7 2 9 1 454 8 12 12 4
 ```
 
-### Sample Output 
+### Sample Output
 ```
 -1
 3 2
