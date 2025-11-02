@@ -9,7 +9,7 @@
 | [Combination Sum](leetcode/39-combination-sum.md) | [Combination Sum](leetcode/39-combination-sum.md) | [Implement Queue using Stacks](leetcode/232-implement-queue-using-stacks.md) | [Implement Queue using Stacks](leetcode/232-implement-queue-using-stacks.md) | [Next Greater Element I](leetcode/496-next-greater-element-i.md) | [Next Greater Element I](leetcode/496-next-greater-element-i.md) | [Implement Stack using Queues](leetcode/225-implement-stack-using-queues.md) | [Valid Parentheses](leetcode/20-valid-parentheses.md) | [LFU Cache](leetcode/460-lf-cache.md) | [Find Greatest Common Divisor of Array](leetcode/1979-find-greatest-common-divisor-of-array.md) | [Largest Rectangle in Histogram](leetcode/84-largest-rectangle-in-histogram.md) |  |  |  |  |  |  |  |  |  |
 | [Adjacent Increasing Subarrays Detection I](leetcode/3349-adjacent-increasing-subarrays-detection-i.md) | [Combination Sum II](leetcode/40-combination-sum-ii.md) | [LRU Cache](leetcode/146-lru-cache.md) | [LFU Cache](leetcode/460-lf-cache.md) | [LFU Cache](leetcode/460-lfu-cache.md) | [LFU Cache](leetcode/460-lfu-cache.md) | [Find Greatest Common Divisor of Array](leetcode/1979-find-greatest-common-divisor-of-array.md) | [Find Greatest Common Divisor of Array](leetcode/1979-find-greatest-common-divisor-of-array.md) | [Find Greatest Common Divisor of Array](leetcode/1979-find-greatest-common-divisor-of-array.md) | [Count the Digits That Divide a Number](leetcode/2520-count-the-digits-that-divide-a-number.md) | [Pow(x, n)](leetcode/50-powx-n.md) |  |  |  |  |  |  |  |  |  |
 | [Combination Sum II](leetcode/40-combination-sum-ii.md) | [Implement Stack using Queues](leetcode/225-implement-stack-using-queues.md) | [LFU Cache](leetcode/460-lf-cache.md) | [LRU Cache](leetcode/146-lru-cache.md) | [LRU Cache](leetcode/146-lru-cache.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| [Next Greater Element I](leetcode/496-next-greater-element-i.md) | [LFU Cache](leetcode/460-lf-cache.md) | [Maximum Subarray](leetcode/53-maximum-subarray.md) |  | [Number of 1 Bits](leetcode/191-number-of-1-bits.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| [Next Greater Element I](leetcode/496-next-greater-element-i.md) | [LFU Cache](leetcode/460-lf-cache.md) | [Maximum Subarray](leetcode/53-maximum-subarray.md) | [Number of 1 Bits](leetcode/191-number-of-1-bits.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [Maximum Subarray](leetcode/53-maximum-subarray.md) | [Maximum Subarray](leetcode/53-maximum-subarray.md) | [Number of 1 Bits](leetcode/191-number-of-1-bits.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [Find Greatest Common Divisor of Array](leetcode/1979-find-greatest-common-divisor-of-array.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [Largest Rectangle in Histogram](leetcode/84-largest-rectangle-in-histogram.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -38,3 +38,7 @@
 | [Serval and Mocha's Array](codeforces/1789-A-Serval-and-Mochas-Array.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [We Need the Zero](codeforces/1805-A-We-Need-the-Zero.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | [Reverse XOR](codeforces/2160-C-Reverse-XOR.md) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+## Atcoder
+
+_No submissions yet._
